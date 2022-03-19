@@ -18,5 +18,3 @@ About Me 🚀<br>
 🎓 I’m pursuing my Bachelors in Information Science & Engineering.<br>
 ⚡ I'm currently looking for opportunities to expand my knowledge and experience.<br>
 🌱 I'm passionate about full stack development and learning new things!.<br>
-### Hi there 👋
-
