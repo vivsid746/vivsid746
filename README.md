@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"> 
 
 <!--
 **vivsid746/vivsid746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About Me 🚀<br>
+🎓 I’m pursuing my Bachelors in Information Science & Engineering.<br>
+⚡ I'm currently looking for opportunities to expand my knowledge and experience.<br>
+🌱 I'm passionate about full stack development and learning new things!.<br>
+### Hi there 👋
+
