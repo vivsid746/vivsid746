@@ -76,7 +76,7 @@ My specialities include : Front End Development, Blockchain, React-native App De
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src= "https://github.com/vivekdrys/vivekdrys/blob/main/Thanks.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src= "https://github.com/vivsid746/vivsid746/blob/main/Thanks.svg" />
 <br />
 
 
