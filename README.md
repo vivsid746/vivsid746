@@ -59,7 +59,7 @@ My specialities include : Front End Development, Blockchain, React-native App De
 
   
    <a href="https://github.com/vivsid746/">
-    <img src="https://img.shields.io/github/followers/vivekdrys?label=Follow%20vivekdrys&style=social"></img>
+    <img src="https://img.shields.io/github/followers/vivekdrys?label=Follow%20vivsid746&style=social"></img>
   </a>
 
 <a href="https://www.linkedin.com/in/vivek-singhal-9718851a3/" rel="nofollow noreferrer">
