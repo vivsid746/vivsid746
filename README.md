@@ -15,7 +15,7 @@
 
 
 
-Hey user 👋 I'm Vivek Singhal.I like to build web-apps 🌐, games 🎮 and solve user problems 🧐 Really love to contribute in open source ❤️ and various communities of students & professionals. If you've made any cool projects, would really like to try it!! Recently, I've taken a keen interest in front end development 💭, react-native and blockchain 📈.
+Hey user 👋 I'm Vivek Singhal.I like to build web-apps 🌐, games 🎮 and solve user problems 🧐 Really love to contribute in open source ❤️ and various communities of students & professionals. If you've made any cool projects, would really like to try it!! Recently, I've taken a keen interest in full stack web development 💭 and blockchain 📈.
 
 My specialities include : Front End Development, Blockchain, React-native App Development.
 
@@ -26,9 +26,8 @@ My specialities include : Front End Development, Blockchain, React-native App De
 
 ## Things I am passionate about
   
-- Front End Development 👨‍💻
+- Full Stack web Development 👨‍💻
 - Blockchain Development ��
-- React-Native app developement👨‍
 
 ## Get in touch :coffee:
 
