@@ -15,9 +15,9 @@
 
 
 
-Hey user 👋 I'm Vivek Singhal.I like to build web-apps 🌐, games 🎮 and solve user problems 🧐 Really love to contribute in open source ❤️ and various communities of students & professionals. If you've made any cool projects, would really like to try it!! Recently, I've taken a keen interest in full stack web development 💭 and blockchain 📈.
+Hey user 👋 I'm Vivek Singhal.I like to build web-apps 🌐, games 🎮 and solve user problems 🧐 Really love to contribute in open source ❤️ and various communities of students & professionals. If you've made any cool projects, would really like to try it!! Recently, I've taken a keen interest in full stack web development 💭.
 
-My specialities include : Front End Development, Blockchain, React-native App Development.
+My specialities include : full stack web development.
 
 <br>
 
@@ -27,23 +27,23 @@ My specialities include : Front End Development, Blockchain, React-native App De
 ## Things I am passionate about
   
 - Full Stack web Development 👨‍💻
-- Blockchain Development ��
+<!-- - Blockchain Development �� -->
 
-## Get in touch :coffee:
+<!-- ## Get in touch :coffee:
 
 - Your future buddy to discuss Product related things along with tech, business intelligence and mareketing in general on [Twitter](https://twitter.com/Viveksi2023).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/vivek-singhal-9718851a3/).
-- And of course GitHub you're already on (Recursion).
+- And of course GitHub you're already on (Recursion). -->
 
 <br>
 
-<p align="centre">
+<!-- <p align="centre">
 <a href = "https://www.linkedin.com/in/vivek-singhal-9718851a3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_vivekagrawal_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "mailto:viveksinghal746@gmail.com?Subject=Regarding Github Profile"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 
 </p>
-
+ -->
 
 # Interactive Resume Website - 
 
@@ -52,7 +52,7 @@ My specialities include : Front End Development, Blockchain, React-native App De
 
 
                                             
-
+<!-- 
 <p align = "center">
   
 
@@ -71,7 +71,7 @@ My specialities include : Front End Development, Blockchain, React-native App De
               </img>
               </a>
 </p >
-
+ -->
 
 <div align="center">
 
