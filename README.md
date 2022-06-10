@@ -15,7 +15,7 @@
 
 
 
-Hey user 👋 I'm Vivek Singhal.I like to build web-apps 🌐, games 🎮 and solve user problems 🧐 Really love to contribute in open source ❤️ and various communities of students & professionals. If you've made any cool projects, would really like to try it!! Recently, I've taken a keen interest in full stack web development 💭.
+Hey user 👋 I'm Vivek Singhal.I like to build web-apps 🌐, games 🎮 and solve user problems 🧐 Really love to contribute in open source ❤️ and various communities 💭.
 
 My specialities include : full stack web development.
 
