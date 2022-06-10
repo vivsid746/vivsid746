@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi (●'◡'●), I'm Vivek Singhal</h1>
+<h1 align="center">Hi 👋, I'm Vivek Singhal</h1>
 
 <p align="center"> 
   Visitor count<br> <br>
