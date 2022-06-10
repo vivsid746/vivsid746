@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">, I'm Vivek Singhal</h1>
+<h1 align="center">Hi (●'◡'●), I'm Vivek Singhal</h1>
 
 <p align="center"> 
   Visitor count<br> <br>
