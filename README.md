@@ -37,13 +37,13 @@ My specialities include : full stack web development.
 
 <br>
 
-<!-- <p align="centre">
+<p align="centre">
 <a href = "https://www.linkedin.com/in/vivek-singhal-9718851a3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_vivekagrawal_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "mailto:viveksinghal746@gmail.com?Subject=Regarding Github Profile"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 
 </p>
- -->
+
 
 # Interactive Resume Website - 
 
@@ -52,7 +52,7 @@ My specialities include : full stack web development.
 
 
                                             
-<!-- 
+
 <p align = "center">
   
 
@@ -71,12 +71,8 @@ My specialities include : full stack web development.
               </img>
               </a>
 </p >
- -->
 
-<div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src= "https://github.com/vivsid746/vivsid746/blob/main/Thanks.svg" />
-<br />
 
 
 </div>
