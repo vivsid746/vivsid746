@@ -45,10 +45,10 @@ My specialities include : full stack web development.
 </p>
 
 
-# Interactive Resume Website - 
+# Interactive Resume Website - https://viveksinghal.me/
 
 > Secure and responsive online portfolio showcasing my work experience, education, projects and achievements along with mailing service. 
- Resume Website Link -   https://vivsid746.github.io/
+ Resume Website Link -   https://viveksinghal.me/
 
 
                                             
