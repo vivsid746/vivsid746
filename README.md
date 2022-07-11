@@ -60,9 +60,14 @@ My specialities include : full stack web development.
    <a href="https://github.com/vivsid746/">
     <img src="https://img.shields.io/github/followers/vivekdrys?label=Follow%20vivsid746&style=social"></img>
   </a>
+  
+  <a href="https://github.com/vivsid746/commits">
+    <img src="https://img.shields.io/github/last-commit/vivsid746"></img>
+  </a>
+
 
 <a href="https://www.linkedin.com/in/vivek-singhal-9718851a3/" rel="nofollow noreferrer">
-                <img style="padding-right: 10px;padding-left: 10px;" src="https://img.shields.io/github/followers/vivek-singhal-9718851a3?label=Follow%20vivek-singhal-9718851a3&style=social" alt="linkedin">
+                <img style="padding-right: 10px;padding-left: 10px;" src="https://img.shields.io/linkedin/follow/vivek-singhal-9718851a3?style=social" alt="linkedin">
               </img>
               </a>
 
