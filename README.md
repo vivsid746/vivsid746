@@ -62,7 +62,7 @@ My specialities include : full stack web development.
   </a>
 
 <a href="https://www.linkedin.com/in/vivek-singhal-9718851a3/" rel="nofollow noreferrer">
-                <img style="padding-right: 10px;padding-left: 10px;" src="https://img.shields.io/badge/LinkedIn-Vivek Singhal-blue?style=social&logo=LinkedIn" alt="linkedin">
+                <img style="padding-right: 10px;padding-left: 10px;" src="https://img.shields.io/github/followers/vivek-singhal-9718851a3?label=Follow%20vivek-singhal-9718851a3&style=social" alt="linkedin">
               </img>
               </a>
 
