@@ -27,7 +27,6 @@ My specialities include : full stack web development.
 ## Things I am passionate about
   
 - Full Stack web Development 👨‍💻
-- Blockchain Development �� (Basic)
 
 <!-- ## Get in touch :coffee:
 
