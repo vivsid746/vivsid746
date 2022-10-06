@@ -56,7 +56,7 @@ Hey user 👋 I'm Vivek Singhal.I like to build web-apps 🌐, games 🎮 and so
 
   
    <a href="https://github.com/vivsid746/">
-    <img src="https://img.shields.io/github/followers/vivekdrys?label=Follow%20vivsid746&style=social"></img>
+    <img src="https://img.shields.io/github/followers/vivsid746?label=Follow%20vivsid746&style=social"></img>
   </a>
  <a href="https://www.linkedin.com/in/vivek-singhal-9718851a3/" rel="nofollow noreferrer">
                 <img style="padding-right: 10px;padding-left: 10px;" src="https://img.shields.io/badge/LinkedIn-Vivek Singhal-blue?style=social&logo=LinkedIn" alt="linkedin">
