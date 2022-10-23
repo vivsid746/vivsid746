@@ -22,10 +22,11 @@ Hey user 👋 I'm Vivek Singhal.I like to build web-apps 🌐, games 🎮 and so
 
 
 
-
+<!--
 ## Things I am passionate about
   
 - Full Stack web Development 👨‍💻
+-->
 
 <!-- ## Get in touch :coffee:
 
