@@ -45,7 +45,7 @@ Hey user 👋 I'm Vivek Singhal.I like to build web-apps 🌐, games 🎮 and so
 <a href = "https://www.instagram.com/_viveksinghal__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "mailto:viveksinghal.hello@gmail.com?Subject=Regarding Github Profile"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
  <a href="https://twitter.com/vivsid746">
-  <img align="left" alt="Tarun Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Tarun Twitter" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 </div>
 </p>
