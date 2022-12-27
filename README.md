@@ -14,11 +14,11 @@ Hey user 👋 I'm Vivek Singhal.I like to build web-apps 🌐, games 🎮 and so
 <br>
  <div style="margin-down:5px;">
  <h2> My GitHub Stats </h2>
-  <p><img width=430 src="https://github-readme-stats.vercel.app/api?username=lucifertrj&count_private=true&theme=dark" /> 
-    <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=lucifertrj&theme=dark" /></p>
+  <p><img width=430 src="https://github-readme-stats.vercel.app/api?username=vivsid746j&count_private=true&theme=dark" /> 
+    <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=vivsid746&theme=dark" /></p>
  <br/>
 <img
-      src="https://github-profile-trophy.vercel.app/?username=lucifertrj"
+      src="https://github-profile-trophy.vercel.app/?username=vivsid746"
       alt="lucifertrj"
   />
  </div>
