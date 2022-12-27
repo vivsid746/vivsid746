@@ -15,7 +15,7 @@ Hey user 👋 I'm Vivek Singhal.I like to build web-apps 🌐, games 🎮 and so
 
  <div style="margin-down:5px;">
  <h2> My GitHub Stats </h2>
-  <p><img width=430 src="https://github-readme-stats.vercel.app/api?username=vivsid746j&count_private=true&theme=dark" /> 
+  <p><img width=430 src="https://github-readme-stats.vercel.app/api?username=vivsid746&count_private=true&theme=dark" /> 
     <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=vivsid746&theme=dark" /></p>
  <br/>
 <img
