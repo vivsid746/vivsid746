@@ -35,12 +35,13 @@ Hey user 👋 I'm Vivek Singhal.I like to build web-apps 🌐, games 🎮 and so
 - And of course GitHub you're already on (Recursion). -->
 
 <br>
-
+<h2>Connect</h2>
+<div>
 <p align="centre">
 <a href = "https://www.linkedin.com/in/vivek-singhal-9718851a3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_viveksinghal__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "mailto:viveksinghal746@gmail.com?Subject=Regarding Github Profile"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-
+</div>
 </p>
 
 
