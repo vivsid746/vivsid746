@@ -11,7 +11,7 @@
 
 ## About me
 Hey user 👋 I'm Vivek Singhal.I like to build web-apps 🌐, games 🎮 and solve user problems 🧐 Really love to contribute in open source ❤️ and various communities 💭.
-<br?
+<br>
 
  <div style="margin-down:5px;">
  <h2> My GitHub Stats </h2>
