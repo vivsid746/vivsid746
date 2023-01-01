@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate for `Dev Projects`.
 
-- 🤔 I’m looking for help with `Competitive Programming`.
+- 🤔 I’m looking for help with `DSA & WEB`.
 
 - 💬 Ask me about anything, :sweat_smile:
 
