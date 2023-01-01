@@ -9,30 +9,28 @@
 
 <br/>
 
-## About me
 ## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://viveksinghal.me/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Something Interesting`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently learning `MERN Stack`.
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate for `Dev Projects`.
 
-- 🤔 I’m looking for help with `Competitive Programming`
+- 🤔 I’m looking for help with `Competitive Programming`.
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 Ask me about anything, :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
 <br>
 
  <div style="margin-down:5px;">
- <h2> My GitHub Stats </h2>
+## 📊 My GitHub Data:
   <p><img width=430 src="https://github-readme-stats.vercel.app/api?username=vivsid746&count_private=true&theme=dark" /> 
     <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=vivsid746&theme=dark" /></p>
  <br/>
@@ -56,47 +54,10 @@
 - And of course GitHub you're already on (Recursion). -->
 
 <br>
-<h2>Connect</h2>
-<div>
-<p align="centre">
-<a href = "https://www.linkedin.com/in/vivek-singhal-9718851a3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/_viveksinghal__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto:viveksinghal.hello@gmail.com?Subject=Regarding Github Profile"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
- <a href="https://twitter.com/vivsid746">
-  <img align="left" alt="Tarun Twitter" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-</div>
+## ❤️ Let's get connected:
+
+<p><a href="https://soumyajit.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/soumyajit4419" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/soumyajit4419" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
-
-# Interactive Resume Website - https://viveksinghal.me/
-
-> Secure and responsive online portfolio showcasing my work experience, education, projects and achievements along with mailing service. 
- Resume Website Link -   https://viveksinghal.me/
-
-
-                                            
-
-<p align = "center">
-  
-
-  
-   <a href="https://github.com/vivsid746/">
-    <img src="https://img.shields.io/github/followers/vivsid746?label=Follow%20vivsid746&style=social"></img>
-  </a>
- <a href="https://www.linkedin.com/in/vivek-singhal-9718851a3/" rel="nofollow noreferrer">
-                <img style="padding-right: 10px;padding-left: 10px;" src="https://img.shields.io/badge/LinkedIn-Vivek Singhal-blue?style=social&logo=LinkedIn" alt="linkedin">
-              </img>
-              </a>
-
-
-  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=vivsid746&tw_p=followbutton">
-                <img style="padding-right: 10px;padding-left: 10px;" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vivsid746?style=social">
-              </img>
-              </a>
-</p >
-
-
-
-
+                                          
 </div>
