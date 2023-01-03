@@ -13,7 +13,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://viveksinghal.me/)**
+- 🙋‍♂️ All about me is at **[My Website](http://viveksinghal.me/)**
 
 - 🔭 I’m currently working on `Something Interesting`.
 
