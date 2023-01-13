@@ -32,7 +32,7 @@
  <div style="margin-down:5px;">
  
 ## 📊 My GitHub Data:
-<p><img width=430 src="https://github-readme-stats.vercel.app/api?username=vivsid746&count_private=true&theme=dark" /> 
+<p>
     <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=vivsid746&theme=dark" /></p>
  <br/>
 <img
